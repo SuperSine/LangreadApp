@@ -1,0 +1,21 @@
+{
+  "name": "LangreadApp",
+  "version": "1.0.0",
+  "description": "Front end application for langread",
+  "main": "index.js",
+  "repository": "https://github.com/SuperSine/LangreadApp.git",
+  "author": "Sine Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.3",
+    "nprogress": "^0.2.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "dev": "next -p 7777",
+    "build": "next build",
+    "start": "next start"
+  }
+}
