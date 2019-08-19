@@ -17,5 +17,9 @@
     "dev": "next -p 7777",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "webpack": "^4.39.2"
   }
 }
